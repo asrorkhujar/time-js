@@ -1,0 +1,21 @@
+body {
+    font-family: 'Share Tech Mono', monospace;
+    background-color: #222;
+    color: #ffffff;
+    text-align: center;
+}
+
+.time-wrapper {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* .result {
+ font-size: 75px;
+}
+
+.result__time {
+  font-size: 100px;
+} */
